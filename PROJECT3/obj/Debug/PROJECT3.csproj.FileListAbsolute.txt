@@ -1,0 +1,21 @@
+c:\users\huliaaaa\documents\visual studio 2015\Projects\PROJECT3\PROJECT3\bin\Debug\PROJECT3.exe.config
+C:\Users\Huliaaaa\documents\visual studio 2015\Projects\PROJECT3\PROJECT3\bin\Debug\PROJECT3.exe
+C:\Users\Huliaaaa\documents\visual studio 2015\Projects\PROJECT3\PROJECT3\bin\Debug\PROJECT3.pdb
+C:\Users\Huliaaaa\documents\visual studio 2015\Projects\PROJECT3\PROJECT3\obj\Debug\PROJECT3.csprojResolveAssemblyReference.cache
+C:\Users\Huliaaaa\documents\visual studio 2015\Projects\PROJECT3\PROJECT3\obj\Debug\PROJECT3.Form1.resources
+C:\Users\Huliaaaa\documents\visual studio 2015\Projects\PROJECT3\PROJECT3\obj\Debug\PROJECT3.Properties.Resources.resources
+C:\Users\Huliaaaa\documents\visual studio 2015\Projects\PROJECT3\PROJECT3\obj\Debug\PROJECT3.csproj.GenerateResource.Cache
+C:\Users\Huliaaaa\documents\visual studio 2015\Projects\PROJECT3\PROJECT3\obj\Debug\PROJECT3.exe
+C:\Users\Huliaaaa\documents\visual studio 2015\Projects\PROJECT3\PROJECT3\obj\Debug\PROJECT3.pdb
+C:\Users\Huliaaaa\Desktop\PROJECT3\PROJECT3\bin\Debug\PROJECT3.exe.config
+C:\Users\Huliaaaa\Desktop\PROJECT3\PROJECT3\obj\Debug\PROJECT3.exe
+C:\Users\Huliaaaa\Desktop\PROJECT3\PROJECT3\obj\Debug\PROJECT3.pdb
+C:\Users\Huliaaaa\Desktop\PROJECT3\PROJECT3\bin\Debug\PROJECT3.exe
+C:\Users\Huliaaaa\Desktop\PROJECT3\PROJECT3\bin\Debug\PROJECT3.pdb
+C:\Users\Huliaaaa\Desktop\PROJECT3\PROJECT3\obj\Debug\PROJECT3.csprojResolveAssemblyReference.cache
+C:\Users\Huliaaaa\Desktop\PROJECT3\PROJECT3\obj\Debug\PROJECT3.Form1.resources
+C:\Users\Huliaaaa\Desktop\PROJECT3\PROJECT3\obj\Debug\PROJECT3.Properties.Resources.resources
+C:\Users\Huliaaaa\Desktop\PROJECT3\PROJECT3\obj\Debug\PROJECT3.csproj.GenerateResource.Cache
+C:\Users\Huliaaaa\Desktop\School\PG2(2)\PROJECT3\PROJECT3\bin\Debug\PROJECT3.exe.config
+C:\Users\Huliaaaa\Desktop\School\PG2(2)\PROJECT3\PROJECT3\obj\Debug\PROJECT3.exe
+C:\Users\Huliaaaa\Desktop\School\PG2(2)\PROJECT3\PROJECT3\obj\Debug\PROJECT3.pdb
